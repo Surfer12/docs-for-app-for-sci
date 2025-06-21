@@ -59,7 +59,7 @@ Truth-Seeking AI for Scientific Discovery: A Culturally-Aligned Framework for Ri
 
 **Team Overview - Cultural Alignment with Claude's Mission (299 words):**
 
-I am Ryan Oates, a truth-seeking researcher whose trajectory naturally aligns with Claude's mission to empower education through scientifically rigorous, passionate, and collaborative AI development. My unique combination of technical capabilities, community building experience, and determined commitment to helping others makes me uniquely qualified for advancing AI-assisted scientific discovery.
+Ryan Oates, a interdisciplinary researcher whose trajectory naturally aligns with Claude's mission to empower education through scientifically rigorous, passionate, and collaborative AI development. My unique combination of technical capabilities, community building experience, and determined commitment to helping others makes me uniquely qualified for advancing AI-assisted scientific discovery.
 
 **Truth-Seeking Foundation:**
 - **Scientific Rigor**: Bringing validated statistical methodologies to Claude for AI Science initiatives, with demonstrated 87% consciousness emergence and 94% contemplative stability through rigorous experimental design
