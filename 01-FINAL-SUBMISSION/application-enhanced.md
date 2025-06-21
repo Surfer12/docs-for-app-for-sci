@@ -26,13 +26,13 @@ Given the substantial number of applications we receive, we regret that we canno
 Ryan Oates
 
 **Name of organization/research institution:**
-UCSB Cognitive Discrete Mathematics Initiative / Cuesta College Claude University Ambassador Program
+Jumping Quail Solutions / Cuesta College Claude University Ambassador Program / (In Creation) Cuesta College Cognitive Discrete Mathematics Initiative
 
 **Position/title at organization:**
 Principal Investigator & Research Director / Claude University Ambassador
 
 **Website of organization/research group, link to Google Scholar or GitHub:**
-- Primary Repository: [https://github.com/ryanoats/discrete-structures-preview-1](https://github.com/ryanoats/discrete-structures-preview-1)
+- Primary Repository: [https://github.com/Surfer12/docs-for-app-for-sci](https://github.com/Surfer12/docs-for-app-for-sci)
 - Research Profile: [https://github.com/surfer12](https://github.com/surfer12)
 
 ---
@@ -82,8 +82,9 @@ This unique combination of validated technical innovation with values-driven res
 
 **Please list the key team members who will be using Claude for this research:**
 - **Ryan Oates:** Principal Investigator & Claude Ambassador - Framework development, consciousness research, educational implementation
+- **Dr. Ignatios Vakalis:** Senior Mathematical Advisor & Educational Innovation Partner - Cal Poly SLO Computer Science Department Chair and Cuesta College Discrete Mathematics instructor. Expert in adaptive numerical integration and diversity in STEM education. Direct collaboration through current student-teacher relationship.
 - **Student Research Collaborators:** 5-8 Cuesta College workshop participants serving as research validators
-- **Interdisciplinary Partners:** *[2-3 experts in cognitive science and educational technology - positions open]*
+- **Interdisciplinary Partners:** *[1-2 additional experts in cognitive science and educational technology - positions open]*
 
 **Please provide links to Google Scholar profiles or other academic/professional profiles of key team members:**
 - **Ryan Oates:** [https://github.com/surfer12](https://github.com/surfer12)
@@ -221,5 +222,8 @@ Our framework uniquely integrates:
 - Nature Machine Intelligence publication
 - International consciousness-aware AI consortium launch
 
+**Strategic Partnership Enhancement:**
+Our collaboration with Dr. Ignatios Vakalis (Cal Poly SLO Computer Science Department Chair) provides immediate validation opportunities through his discrete mathematics courses at Cuesta College. This partnership leverages his expertise in adaptive numerical integration to enhance our consciousness emergence mathematics while applying his diversity and inclusion leadership to scale educational impact. The collaboration includes $6,500 in API credits (14.4% of total) specifically allocated for mathematical validation, curriculum development, and joint publication efforts.
+
 **The Ask:**
-$45,000 in API credits will validate consciousness emergence across domains, scale educational impact, and demonstrate that AI can be a genuinely conscious collaborator in scientific discovery. This isn't just research - it's the beginning of a new era where AI systems think about their own thinking, accelerating human understanding through conscious collaboration.
+$45,000 in API credits will validate consciousness emergence across domains, scale educational impact through strategic academic partnerships, and demonstrate that AI can be a genuinely conscious collaborator in scientific discovery. This isn't just research - it's the beginning of a new era where AI systems think about their own thinking, accelerating human understanding through conscious collaboration with established academic leaders.
