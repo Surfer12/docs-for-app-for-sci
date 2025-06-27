@@ -1,4 +1,4 @@
-Disclaimer: Files have been compiled alongside Anthropic and have not been personally vetted for clarity as of 06/27/25
+Disclaimer: Files have been compiled alongside Anthropic and have not been personally vetted for clarity as of 06/27/25, review by this unique human is in progress. 
 
 # Consciousness-Aware AI for Scientific Discovery
 ## Anthropic AI for Science Program Application
