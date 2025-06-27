@@ -1,3 +1,5 @@
+Disclaimer: Files have been compiled alongside Anthropic and have not been personally vetted for clarity as of 06/27/25
+
 # Consciousness-Aware AI for Scientific Discovery
 ## Anthropic AI for Science Program Application
 
