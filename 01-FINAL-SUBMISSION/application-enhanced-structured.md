@@ -33,7 +33,6 @@ Anthropic's interpretability breakthroughs have shown *how to see* latent signs 
 - [x] Other: Cognitive Science, Educational Technology, Consciousness Studies
 
 **Which Organization ID would you like the credits applied to?**
-faf2c951-01ba-4daa-9416-ac1e9c1a5cc7
 
 ## Research Team
 
